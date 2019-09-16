@@ -1,0 +1,29 @@
+{
+  "name": "@labstag/slide-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labstag/slide-graphql.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/labstag/slide-graphql/issues"
+  },
+  "homepage": "https://github.com/labstag/slide-graphql#readme",
+  "scripts": {
+    "changelog": "gitmoji-changelog",
+    "readme": "readme",
+    "commit": "sgc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gitmoji-changelog": "^1.1.0",
+    "readme-md-generator": "0.6.2",
+    "semantic-git-commit-cli": "3.3.0"
+  }
+}
