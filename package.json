@@ -23,7 +23,7 @@
   "dependencies": {},
   "devDependencies": {
     "gitmoji-changelog": "1.1.0",
-    "readme-md-generator": "0.6.3",
+    "readme-md-generator": "0.6.4",
     "semantic-git-commit-cli": "3.4.0"
   }
 }
